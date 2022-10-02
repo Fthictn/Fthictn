@@ -1,7 +1,11 @@
   Hi Everyone!
 
 - 🔭 I’m currently working on back-end development
-- 💬 If you want to contact with me to talk about any part of software engineering fthi.cetin@gmail.com
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/fethicetin/"><img align="left" alt="LinkedIn" width="21px"/></a>
+<a href="fthictn.medium.com"><img align="left" alt="Medium" width="21px"/></a>
 
 [![Fethi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fthictn&show_icons=true&bg_color=0d1117&text_color=ffffff)](https://github.com/Fthictn/github-readme-stats)
 
