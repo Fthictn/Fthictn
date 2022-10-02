@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning node.js
 - 💬 Ask me about anything you want about software engineering
 
-[![Fethi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fthictn&show_icons=true&bg_color=000000&text_color=ffffff)](https://github.com/Fthictn/github-readme-stats)
+[![Fethi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fthictn&show_icons=true&bg_color=0d1117&text_color=ffffff)](https://github.com/Fthictn/github-readme-stats)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
