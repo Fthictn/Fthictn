@@ -1,11 +1,9 @@
   Hi Everyone!
 
 - 🔭 I’m currently working on back-end development
-- 💬 If you want to talk with me about software engineering
+- 💬 If you want to talk with me about software engineering fthi.cetin@gmail.com
 
-fthi.cetin@gmail.com
-
-[![Fethi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fthictn&show_icons=true&bg_color=0d1117&text_color=c9d1b3)](https://github.com/Fthictn/github-readme-stats)
+[![Fethi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fthictn&show_icons=true&bg_color=0d1117&text_color=fffff)](https://github.com/Fthictn/github-readme-stats)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
