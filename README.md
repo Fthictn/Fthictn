@@ -1,8 +1,7 @@
   Hi Everyone!
 
 - 🔭 I’m currently working on back-end development
-- 🌱 I’m currently learning node.js
-- 💬 Ask me about anything you want about software engineering
+- 💬 If you want to talk with me about software engineering
 
 [![Fethi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fthictn&show_icons=true&bg_color=0d1117&text_color=c9d1b3)](https://github.com/Fthictn/github-readme-stats)
 
