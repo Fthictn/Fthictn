@@ -1,4 +1,4 @@
-  Hi!
+  Hi Everyone!
 
 - 🔭 I’m currently working on back-end development
 - 🌱 I’m currently learning node.js
