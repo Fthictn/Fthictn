@@ -7,6 +7,8 @@
 <a href="https://www.linkedin.com/in/fethicetin/"><img align="left" alt="LinkedIn" width="21px"/></a>
 <a href="fthictn.medium.com"><img align="left" alt="Medium" width="21px"/></a>
 
+<br/>
+
 [![Fethi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fthictn&show_icons=true&bg_color=0d1117&text_color=ffffff)](https://github.com/Fthictn/github-readme-stats)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
