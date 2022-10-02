@@ -3,9 +3,8 @@
 - 🔭 I’m currently working on back-end development
 - 🌱 I’m currently learning node.js
 - 💬 Ask me about anything you want about software engineering
-- 📫 How to reach me: fthi.cetin@gmail.com
 
-[![Fethi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fthictn&show_icons=true&bg_color=0D1117&text_color=ffffff)](https://github.com/Fthictn/github-readme-stats)
+[![Fethi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fthictn&show_icons=true&bg_color=ffffff&text_color=ffffff)](https://github.com/Fthictn/github-readme-stats)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
