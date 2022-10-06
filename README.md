@@ -1,6 +1,6 @@
   Hi Everyone!
 
-- 🔭 I’m currently working on back-end development
+- 🔭 I’m currently working on back-end development, mostly using Java and Kotlin. I am learning Node.js.
 
 <!--[![Fethi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fthictn&show_icons=true&bg_color=0d1117&text_color=ffffff)](https://github.com/Fthictn/github-readme-stats)-->
 
